@@ -30,7 +30,7 @@ h1.style.marginLeft = '2rem'
 // classList manipola invece le classi CSS
 
 // primo paragrafo
-const firstP = document.getElementsByClassName('content')[0]
+const firstP = document.getElementsByClassName('cont ent')[0]
 firstP.classList.add('bigger') // aggiunge al primo <p> la classe "bigger"
 
 // selezioniamo tutti gli elemento della <ol>
